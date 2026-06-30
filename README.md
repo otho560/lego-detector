@@ -6,7 +6,7 @@ A YOLO model trained to detect LEGO brick and count of each colour.
 
 1. Click the badge below (or open `Lego_Predict_1.ipynb` in GitHub and click "Open in Colab").
 
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/otho560/lego-detector/blob/main/Lego_Predict.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/otho560/lego-detector/blob/main/Lego_Predict_1.ipynb)
 
 2. In Colab: **Runtime → Run all**.
 3. When the file picker pops up at the bottom, upload a photo of LEGO bricks.
